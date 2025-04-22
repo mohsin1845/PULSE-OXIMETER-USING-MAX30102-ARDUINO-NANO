@@ -29,10 +29,11 @@ This project is a custom-designed PCB for a Pulse Oximeter using the MAX30102 se
 | MENU, UP, DOWN | Tactile Push Buttons | User Interface Controls |
 
 ---
+## 🖼️ Preview Images
 
-## 📷 PCB Layout (3D View)
-
-![PCB 3D View](Img/PCB_3D.png)
+| 3D View | Ordered View |
+|:---------:|:----------:|
+| ![Circuit Diagram](Img/PCB_3D.png) | ![Configuration](Img/Order.png) |
 
 ---
 
@@ -40,7 +41,7 @@ This project is a custom-designed PCB for a Pulse Oximeter using the MAX30102 se
 
 **1.** **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/PULSE-OXIMETER-USING-MAX30102-ARDUINO-NANO.git
+   git clone https://github.com/mohsin1845/PULSE-OXIMETER-USING-MAX30102-ARDUINO-NANO.git
    ```
 
 **2.** **Open in KiCad**
